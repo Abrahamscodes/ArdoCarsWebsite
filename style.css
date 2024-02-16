@@ -300,6 +300,9 @@ header.shadow #search-icon{
 .contact-form{
     text-align: left;
 }
+.contact-form a{
+    color: white;
+}
 
 .contact-form h3{
     font-size: 24px;
