@@ -13,6 +13,7 @@ document.querySelector('#menu-icon').onclick = ()  => {
 }
 
 // Hide Menu And Search Box On Scroll
+
 window.onscroll = () => {
     menu.classList.remove('active');
     search.classList.remove('active');
@@ -22,6 +23,7 @@ window.onscroll = () => {
 
 
 //header
+
 let header = document.querySelector('header');
 
 
